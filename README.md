@@ -5,7 +5,9 @@
 Para subir el trabajo realizado, pueden usar los siguientes comandos desde el repositorio de su equipo
 
 git add .
+
 git commit -m "breve descripción de lo que trabajaron"
+
 git push
 
 ## Objetivos
